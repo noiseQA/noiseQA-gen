@@ -1,0 +1,4 @@
+[submodule "asr/espnet"]
+	path = asr/espnet
+	url = https://github.com/noiseQA/espnet
+	branch = noiseqa

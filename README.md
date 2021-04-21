@@ -4,7 +4,7 @@
 
 # NoiseQA
 
-[NoiseQA](https://noiseqa.github.io/) is framework for evaluating QA model robustness to interface noise.
+[NoiseQA](https://noiseqa.github.io/) is a framework for evaluating QA model robustness to interface noise.
 We construct synthetic noise generators to simulate three different types of noise faced by QA systems:
  - Machine Translation noise, to simulate errors occurring when users ask questions in a different language than the language(s) the QA model was trained on;
  - Keyboard noise, to simulate the effect of users making spelling errors while typing questions into the QA model;
